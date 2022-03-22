@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "image": "1.jpeg",
+      "name": "T-shirt 1",
+      "description": "Смарфоны по низкой цене",
+      "price": 2100.546488,
+      "article": "T1",
+      "category": "Смартфоны"
+    },
+    {
+      "image": "2.jpeg",
+      "name": "T-shirt 2",
+      "description": "Смарфоны по низкой цене",
+      "price": 3150.878987,
+      "article": "T2",
+      "category": "Смартфоны"
+    },
+    {
+      "image": "3.jpeg",
+      "name": "T-shirt 3",
+      "description": "Смарфоны по низкой цене",
+      "price": 4200.478624,
+      "article": "T3",
+      "category": "Смартфоны"
+    },
+    {
+      "image": "4.jpeg",
+      "name": "T-shirt 4",
+      "description": "Смарфоны по низкой цене",
+      "price": 5300.264789,
+      "article": "T4",
+      "category": "Смартфоны"
+    },
+    {
+      "image": "5.jpeg",
+      "name": "T-shirt 5",
+      "description": "Ноутбуки по низкой цене",
+      "price": 6500.249726,
+      "article": "T5",
+      "category": "Ноутбуки"
+    },
+    {
+      "image": "6.jpeg",
+      "name": "T-shirt 6",
+      "description": "Ноутбуки по низкой цене",
+      "price": 8700.5789123,
+      "article": "T6",
+      "category": "Ноутбуки"
+    },
+    {
+      "image": "7.jpeg",
+      "name": "T-shirt 7",
+      "description": "Ноутбуки по низкой цене",
+      "price": 8700.547892,
+      "article": "T7",
+      "category": "Ноутбуки"
+    }
+  ]
+}
